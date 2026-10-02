@@ -1,0 +1,22 @@
+[
+    {
+        "maquina": "Máquina 01",
+        "meta": 1000,
+        "produzido": 1050
+    },
+    {
+        "maquina": "Máquina 02",
+        "meta": 1500,
+        "produzido": 1200
+    },
+    {
+        "maquina": "Máquina 03",
+        "meta": 800,
+        "produzido": 600
+    },
+    {
+        "maquina": "Máquina 04",
+        "meta": 2000,
+        "produzido": 2100
+    }
+]

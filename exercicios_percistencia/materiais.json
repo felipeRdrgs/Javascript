@@ -1,0 +1,32 @@
+[
+  {
+    "codigo": "M001",
+    "descricao": "Parafuso",
+    "quantidade": 100,
+    "valorUnitario": 0.50
+  },
+  {
+    "codigo": "M002",
+    "descricao": "Porca",
+    "quantidade": 80,
+    "valorUnitario": 0.30
+  },
+  {
+    "codigo": "M003",
+    "descricao": "Arruela",
+    "quantidade": 120,
+    "valorUnitario": 0.20
+  },
+  {
+    "codigo": "M004",
+    "descricao": "Chave de fenda",
+    "quantidade": 15,
+    "valorUnitario": 25.90
+  },
+  {
+    "codigo": "M005",
+    "descricao": "Alicate",
+    "quantidade": 10,
+    "valorUnitario": 35.50
+  }
+]

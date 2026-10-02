@@ -1,0 +1,20 @@
+[
+  {
+    "codigo": 1,
+    "nome": "Notebook",
+    "setor": "TI",
+    "operacional": true
+  },
+  {
+    "codigo": 2,
+    "nome": "Impressora",
+    "setor": "Administração",
+    "operacional": true
+  },
+  {
+    "codigo": 3,
+    "nome": "Telefone",
+    "setor": "Vendas",
+    "operacional": false
+  }
+]
